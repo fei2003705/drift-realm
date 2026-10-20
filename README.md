@@ -2,7 +2,7 @@
 
 以 AI 協作開發的單人魔幻探索與農場經營網頁遊戲。
 
-- [開啟遊戲](./index.html)
+- [開啟遊戲](https://fei2003705.github.io/drift-realm/)
 - [遊戲規格書](./spec.md)
 
 ## 玩法
@@ -22,3 +22,4 @@
 ## 第三方元件
 
 Three.js 採 MIT 授權，見 third-party-license.txt。
+
